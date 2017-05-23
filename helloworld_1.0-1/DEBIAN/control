@@ -3,7 +3,7 @@ Version: 1.0-1
 Section: base
 Priority: optional
 Architecture: amd64
-Depends: apache2 (>= 2.4.0)
+Depends: apache2 (>= 2.4.0), php (>= 5.3.0), libapache2-mod-php7.0 (>= 7.0.18)
 Maintainer: Your Name <you@email.com>
 Description: Hello World
  When you need some sunshine, just run this
