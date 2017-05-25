@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="#ff0000">
+<body bgcolor="#ff00ff">
 <h1>Hello world!</h1>
 <p>Server name: <?php echo gethostname();?></p>
 cool
